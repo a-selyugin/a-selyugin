@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Artem
 - 🌱 I’m currently learning React and Typescript and looking for a first job as a front-end dev.
-- 📫 You can reach me via Telegram: [@a_selyugin](https://t.me/a_selyugin)
+- 📫 You can reach me via Telegram: [@showmeartem](https://t.me/showmeartem)
 
 #### My recent school projects:
 - [Interactive English textbook with games](http://rslang-team75.pages.dev/): React, TS, Tailwind
