@@ -6,6 +6,7 @@
 - [Interactive English textbook with games](http://rslang-team75.pages.dev/): React, TS, Tailwind
 - [Simple Online Store page](https://rolling-scopes-school.github.io/a-selyugin-JSFE2022Q1/online-store/): TS, SASS
 - [Virtual keyboard](https://a-selyugin.github.io/virtual-keyboard/): JS, SASS
+- [Shelter page](https://rolling-scopes-school.github.io/a-selyugin-JSFE2022Q1/shelter/pages/main/index.html) JS, SASS, pixel-perfect [DRAFT](https://www.figma.com/file/tKcmzkARtMUFQAR9VLdLkl/shelter-dom)
 
 <!---
 a-selyugin/a-selyugin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
