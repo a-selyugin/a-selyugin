@@ -13,8 +13,11 @@
 - JavaScript
 - Typescript
 - Git/Github
+- Subversion
 - Webpack
 - Project management
+- Jira
+- Spoken/written English
 - Agile/SCRUM (basics)
 - React (basics)
 
