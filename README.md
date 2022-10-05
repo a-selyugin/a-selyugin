@@ -8,10 +8,9 @@
 - [Virtual keyboard](https://a-selyugin.github.io/virtual-keyboard/): JS, SASS
 - [Shelter page](https://rolling-scopes-school.github.io/a-selyugin-JSFE2022Q1/shelter/pages/main/index.html): JS, SASS, Pixel-perfect ([Draft](https://www.figma.com/file/tKcmzkARtMUFQAR9VLdLkl/shelter-dom))
 
-#### Skills
+#### Skills:
 - HTML/CSS/SCSS/SASS
-- JavaScript
-- Typescript
+- JavaScript/Typescript
 - Git/Github
 - Subversion
 - Webpack
