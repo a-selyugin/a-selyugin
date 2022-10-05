@@ -3,7 +3,7 @@
 - 📫 You can reach me via Telegram: [@showmeartem](https://t.me/showmeartem)
 
 #### My recent school projects:
-- [Interactive English textbook with games](http://rslang-team75.pages.dev/): React, TS, Tailwind
+- [Interactive English textbook with games](http://rslang-team75.pages.dev/): React, TS, Tailwind (backend deployed on free heroku, may start slow)
 - [Simple Online Store page](https://rolling-scopes-school.github.io/a-selyugin-JSFE2022Q1/online-store/): TS, SASS
 - [Virtual keyboard](https://a-selyugin.github.io/virtual-keyboard/): JS, SASS
 - [Shelter page](https://rolling-scopes-school.github.io/a-selyugin-JSFE2022Q1/shelter/pages/main/index.html): JS, SASS, Pixel-perfect ([Draft](https://www.figma.com/file/tKcmzkARtMUFQAR9VLdLkl/shelter-dom))
