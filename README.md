@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Artem
-- 🌱 I’m currently learning React and Typescript and looking for a first job as a front-end dev.
+- 🌱 I’m currently learning PHP and Wordpress and looking for a first job as a front-end dev.
 - 📫 You can reach me via Telegram: [@showmeartem](https://t.me/showmeartem)
 
 #### My recent school projects:
@@ -19,6 +19,8 @@
 - Spoken/written English
 - Agile/SCRUM (basics)
 - React (basics)
+- PHP (learning)
+- Wordpress
 
 <!---
 a-selyugin/a-selyugin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
