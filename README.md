@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Artem
-- 🌱 I’m currently learning PHP and Wordpress and looking for a first job as a front-end dev.
+- 🌱 I’m currently learning PHP and Wordpress.
 - 📫 You can reach me via Telegram: [@showmeartem](https://t.me/showmeartem)
 
 #### My recent school projects:
